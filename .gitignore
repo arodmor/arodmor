@@ -1,0 +1,9 @@
+# Build brief — internal spec, never commit
+_brief.md
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+.venv/
