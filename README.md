@@ -1,9 +1,7 @@
 # Antonio Rodriguez-Moral
 
-**Building, advising, and experimenting at the intersection of AI and business.**
-From the optical networks at Bell Labs that helped carry the global Internet, to
-founding and managing an AI consulting firm — and now experimenting hands-on at the frontier
-of AGI.
+**Building and experimenting at the intersection of AI and business.**
+Some tidbits of my exploring and experimenting hands-on at the frontier of AI and AGI.
 
 🔬 **What I'm exploring/experimenting with right now**
 - 🗣️ [**voice-ai-landscape**](https://github.com/arodmor/voice-ai-landscape) — mapping the 2026 TTS / voice-agent ecosystem
@@ -11,8 +9,7 @@ of AGI.
 - 🔁 [**recursive-reasoning-models**](https://github.com/arodmor/recursive-reasoning-models) — researching Tiny Recursive Models (TRM)
 - 🧪 [**AI/ML Lab**](https://arodmor.github.io) — my open lab landing page
 
-📋 **Background in one line**
-PhD in Economics (Summa Cum Laude) · M.S. Electrical Engineering · Founder & Managing Director, MachiMind (AI consulting) · ex-Bell Labs / Photuris ·
-6 US patents · 25+ peer-reviewed papers · clients and projects across 23 countries.
+📋 **Background in a couple of lines**
+PhD in Economics (Summa Cum Laude) · M.S. Electrical Engineering · Founder & Managing Director, MachiMind (AI consulting)  · Director & Managing Director at 3 global consulting firms (Arthur D. Little, Atos Consulting, Altran Consulting) · Chief Architect and Member of Core Founding Team at Photuris (VC-backed Silicon Valley startup)  ·  Senior Member of Technical Staff (R&D) at Bell Labs · 6 US patents · 25+ peer-reviewed papers · clients and projects across 23 countries.
 
 🌐 [arodmor.me](https://arodmor.me) · 💻 [GitHub](https://github.com/arodmor) · ✉️ antonio.rodriguez.moral@pm.me
